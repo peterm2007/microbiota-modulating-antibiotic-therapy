@@ -41,9 +41,9 @@ pip install -r requirements.txt
 ```
 
 Core libraries required (2026 Stable Stack):
-* `pandas` (==3.0.6)
+* `pandas` (==3.0.5)
 * `numpy` (==2.5.0)
-* `scikit-learn` (==1.6.0)
+* `scikit-learn` (==1.5.2)
 * `scipy` (==1.18.1)
 * `statsmodels` (==0.15.0)
 * `lifelines` (==0.30.3)
