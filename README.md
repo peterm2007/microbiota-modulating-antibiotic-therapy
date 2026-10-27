@@ -52,7 +52,7 @@ Core libraries required (2026 Stable Stack):
 
 ## Key Statistical Outputs & Figures
 
-* **Table 5 Updates:** Multivariate logistic regression for in-hospital mortality demonstrating a pronounced clinical trend toward reduced adjusted odds of death in the Modulation Group (OR = 0.2219, 95% CI: 0.0399–1.2345, p = 0.0855).
+* **Table 5 Updates:** Multivariate logistic regression for in-hospital mortality demonstrating a clinical trend toward reduced adjusted odds of death in the Modulation Group (OR = 0.2219, 95% CI: 0.0399–1.2345, p = 0.0855). This association did not reach statistical significance, and the wide confidence interval is compatible with substantial benefit, no effect, or harm.
 * **Table 6 Updates:** Fine-Gray subdistribution hazard regression establishing a descriptive, statistically null effect on time to live ICU discharge (adjusted SHR = 0.7985, 95% CI: 0.3393–1.8792, p = 0.6063), properly accounting for ICU mortality as a competing risk.
 * **Figure 2 Generation:** The notebook automatically exports a high-resolution, publication-ready plot (`ICU_discharge_competing_risks.png`, 300 DPI) representing the Cumulative Incidence Functions aligned up to a strict 30-day follow-up horizon.
 
