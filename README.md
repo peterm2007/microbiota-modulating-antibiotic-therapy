@@ -61,6 +61,6 @@ Core libraries required (2026 Stable Stack):
 If you use this code or dataset in your research, please cite our paper:
 
 ```text
-Chernevskaya, E., Getsina, M., Burnatsev, K., Tsakoev, R., Meinarovich, P., Yakunina, E., & Beloborodova, N. (2025). Microbiota-Modulating Antibiotic Therapy in ICUs: Results of a Retrospective Data and Prospective Pilot Study in Patients With Intra-Abdominal Infections. (To be updated upon final publication).
+Chernevskaya, E.; Getsina, M.; Burnatsev, K.; Tsakoev, R.; Meinarovich, P.; Yakunina, E.; Beloborodova, N. Microbiota-Modulating Antibiotic Therapy in ICUs: Results of a Retrospective Data and Prospective Pilot Study in Patients with Intra-Abdominal Infections. J. Clin. Med. 2026, 15, 8994. https://doi.org/10.3390/jcm15228994
 ```
 
